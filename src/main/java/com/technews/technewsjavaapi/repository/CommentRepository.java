@@ -1,6 +1,6 @@
 package com.technews.technewsjavaapi.repository;
 
-import com.technews.model.Comment;
+import com.technews.technewsjavaapi.model.Comment;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
